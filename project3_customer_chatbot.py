@@ -1,7 +1,7 @@
 """
 PROJECT 3: AI-BASED CUSTOMER SUPPORT CHATBOT
 Author: ML Projects Collection
-Date: 2025
+
 
 AIM:
 To create an intelligent conversational AI chatbot that can understand customer 
